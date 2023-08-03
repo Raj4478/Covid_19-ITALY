@@ -17,6 +17,8 @@ covid19_italy_province.csv - Province level data of COVID-19 cases
 covid_italy_region.csv - Region level data of COVID-19 cases
 
 
+
+
  # Key Insights
  
  - A total of 154,583,569 people died in Italy during Covid Pandemic
@@ -44,7 +46,9 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
 ## From the above Image it is evident that Death Toll started increasing after August
 
-![Sheet 2 (1)](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/c5d7eac7-0dbb-4698-b202-a65671d0c74b)
+![Covid cases per region](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/c5d7eac7-0dbb-4698-b202-a65671d0c74b)
+
+## The above image show that Lombardia and Lazio act as hotzone for COVID-19 
 
 
 
