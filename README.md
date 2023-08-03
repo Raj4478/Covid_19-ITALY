@@ -27,4 +27,7 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
  - A total of 3.680% of died after being infected by COVID-19
 
- - 
+ - OF all the people affected 0.0080% people were treated in ICU
+
+
+   
