@@ -38,7 +38,12 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 ![Death per Total cases](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/20c05037-dd56-487f-9d35-9d5ea11d0bdd)
 
 
-##The above image give a percent of total people died of Covid_19 after being affected
+## The above image give a percent of total people died of Covid_19 after being affected
+
+![Death Toll by Month](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/4107b076-ff68-4106-bad1-a470fe3c0ae6)
+
+##From the above Image it is evident that Death Toll started increasing after August
+
 
 
    
