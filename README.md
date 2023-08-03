@@ -16,6 +16,14 @@ This dataset has two files
 covid19_italy_province.csv - Province level data of COVID-19 cases
 covid_italy_region.csv - Region level data of COVID-19 cases
 
+# Project Step Overview 
+
+- The Data was first cleaned in Google Bigquery and null values and duplicate values were removed using SQL operations.
+
+- Then the data was analyzed to gather various insights based on region,date,cases etc.
+
+- After that the data was send to Tableau to visualize data based on insights drawn
+
 
 
 
@@ -30,6 +38,7 @@ covid_italy_region.csv - Region level data of COVID-19 cases
  - A total of 3.680% of died after being infected by COVID-19
 
  - OF all the people affected 0.0080% people were treated in ICU
+
 
 ![Death per region](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/bd3ecac5-a61b-49e4-aeab-b552e2364353)
 
