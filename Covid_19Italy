@@ -1,0 +1,3 @@
+# Total no of deaths in italy due to covid
+
+SELECT sum(deaths) as Total_deaths FROM `bigquery-public-data.covid19_italy.data_by_region` where country ="ITA" LIMIT 100
