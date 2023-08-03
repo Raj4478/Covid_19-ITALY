@@ -29,7 +29,9 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
  - OF all the people affected 0.0080% people were treated in ICU
 
-![Sheet 1 (2)](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/bd3ecac5-a61b-49e4-aeab-b552e2364353)
+![Death per region](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/bd3ecac5-a61b-49e4-aeab-b552e2364353)
+
+## The above image shows Death per region in Italy
 
 
 
