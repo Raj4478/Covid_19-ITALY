@@ -1,3 +1,30 @@
-# Total no of deaths in italy due to covid
+### Total no of deaths in Italy due to Covid 
 
 SELECT sum(deaths) as Total_deaths FROM `bigquery-public-data.covid19_italy.data_by_region` where country ="ITA" LIMIT 100
+
+###  Total no of deaths by region 
+
+
+SELECT sum(deaths),region_name
+FROM `bigquery-public-data.covid19_italy.data_by_region` where country ="ITA" GROUP BY region_name limit 100
+
+### Total percentage of patient recovered from covid
+
+
+select (sum(recovered)/sum(recovered+deaths))* 100,region_name FROM `bigquery-public-data.covid19_italy.data_by_region` group by region_name LIMIT 100
+
+
+### Total no of patients in ICU
+
+SELECT ((sum(hospitalized_patients_intensive_care))/sum( total_hospitalized_patients))*100 FROM `bigquery-public-data.covid19_italy.data_by_region` LIMIT 100
+
+### Top Covid Hotzones in Italy
+
+select sum(total_confirmed_cases), region_name FROM `bigquery-public-data.covid19_italy.data_by_region` group by region_name order by sum(total_confirmed_cases) desc LIMIT 100
+
+
+
+
+
+
+
