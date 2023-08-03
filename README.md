@@ -35,4 +35,10 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
 
 
+![Death per Total cases](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/20c05037-dd56-487f-9d35-9d5ea11d0bdd)
+
+
+##The above image give a percent of total people died of Covid_19 after being affected
+
+
    
