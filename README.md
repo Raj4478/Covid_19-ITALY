@@ -42,7 +42,10 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
 ![Death Toll by Month](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/4107b076-ff68-4106-bad1-a470fe3c0ae6)
 
-##From the above Image it is evident that Death Toll started increasing after August
+## From the above Image it is evident that Death Toll started increasing after August
+
+![Sheet 1 (2)](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/32c16b93-21e0-45bc-9609-48f5975f91d6)
+
 
 
 
