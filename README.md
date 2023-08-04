@@ -39,6 +39,13 @@ covid_italy_region.csv - Region level data of COVID-19 cases
 
  - OF all the people affected 0.0080% people were treated in ICU
 
+#KPI
+
+
+![KPI](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/d64618f7-15ef-4f66-959b-8d1fa2b1f9d9)
+
+
+
 
 ![Region with Maximum Deaths](https://github.com/Raj4478/Covid_19-ITALY/assets/132039556/d0775e31-3e4d-40cb-8b25-5db924dabc17)
 
